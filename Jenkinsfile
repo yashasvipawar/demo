@@ -5,7 +5,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'we are executing deploy'
-                echo 'done'
+                
                 
             }
         }
